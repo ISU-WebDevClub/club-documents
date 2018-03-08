@@ -1,5 +1,4 @@
 # Web Development Club Constitution
-*Once the club gets approved we'll get a club ISU email and make an actual ISUWDC GitHub account. Once that happens, this document will get moved to that account.*
 
 ## Table of Contents
 
@@ -28,6 +27,7 @@
   - [Section 2: Dues](#section-2-dues)
   - [Section 3: Disposition of Monies upon Club Dissolution](#section-3-disposition-of-monies-upon-club-dissolution)
 - [Article X - AMENDMENTS & RATIFICATION](#article-x---amendments--ratification)
+  - [Amendment 1: Repeal of Membership Dues](#amendment-1-repeal-of-membership-dues)
 
 ## Article I - CLUB NAME
 The name of this organization shall be Web Development Club, herein referred to as WDC.
@@ -155,7 +155,7 @@ Impeachment may be brought against the advisor by a club officer for failure to 
 All monies belonging to the WDC shall be deposited and disbursed through a bank account established for the club at the Campus Organizations Accounting Office and/or approved institution/office (must receive authorization via Campus Organizations Accounting Office). All funds must be deposited within 48 hours after collection. The club Advisor must approve and sign expenditures before payment.
 
 ### Section 2: Dues
-Membership dues for all members will be $10 per semester and will be due by the third general meeting of the semester. For members who join after the third general meeting of the semester, they will be expected to pay dues by the third general meeting after the date they joined. Dues for the semester may be waived for all members by the club Treasurer in the event that there is enough money in the club’s account to pay for all budgeted items for the semester (such as website fees, scheduled club activities, etc.). The waiving of dues will be on an “all-or-nothing” basis; either all members have their dues waived for the semester, or none have their dues waived. *NOTE: It is the goal of WDC to waive dues every semester by raising club funds in other ways, such as by providing web development services to other clubs, students, and faculty members.*
+~Membership dues for all members will be $10 per semester and will be due by the third general meeting of the semester. For members who join after the third general meeting of the semester, they will be expected to pay dues by the third general meeting after the date they joined. Dues for the semester may be waived for all members by the club Treasurer in the event that there is enough money in the club’s account to pay for all budgeted items for the semester (such as website fees, scheduled club activities, etc.). The waiving of dues will be on an “all-or-nothing” basis; either all members have their dues waived for the semester, or none have their dues waived. *NOTE: It is the goal of WDC to waive dues every semester by raising club funds in other ways, such as by providing web development services to other clubs, students, and faculty members.*~
 
 ### Section 3: Disposition of Monies upon Club Dissolution
 In the event that the club is dissolved, the Treasurer will use any remaining funds in the club account to pay any outstanding fees owed by the club. Thereafter, if any remaining funds exist, the money shall be donated to a local charity.
@@ -164,3 +164,6 @@ In the event that the club is dissolved, the Treasurer will use any remaining fu
 The constitution and any amendments hereafter must be voted on and approved by the general membership of the WDC. A two-thirds majority vote will be sufficient to ratify the constitution and any future amendments. *The new or amended constitution must be submitted to the Student Activities Center within 10 days of ratification for approval.*
 
 A motion to amend the constitution can be made by any member of the club. The proposed amendment will be drafted as a pull request to the Constitution in the club's git repository. All members shall be notified of the proposal, and it shall be discussed in detail in the pull request comments and at the next general meeting. The vote shall take place no less than one week after the time it was initially discussed as a group.
+
+### Amendment 1: Repeal of Membership Dues
+Article IX, Section 2 is hereby repealed.
