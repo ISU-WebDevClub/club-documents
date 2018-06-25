@@ -67,11 +67,6 @@ All monies belonging to the WDC shall be deposited and disbursed through a bank 
 
 The Treasurer will prepare a budget at the beginning of each semester. The club will vote on the budget, which will pass with a simple majority vote. Changes to the budget during the semester should be presented to the club and voted upon before going into effect.
 
-#### Dues
-Membership dues for all members will be $10 per semester and will be due by the third general meeting of the semester. For members who join after the third general meeting of the semester, they will be expected to pay dues by the third general meeting after the date they joined. Dues for the semester may be waived for all members by the club Treasurer in the event that there is enough money in the club’s account to pay for all budgeted items for the semester (such as website fees, scheduled club activities, etc.). The waiving of dues will be on an “all-or-nothing” basis; either all members have their dues waived for the semester, or none have their dues waived. *NOTE: It is the goal of WDC to waive dues every semester by raising club funds in other ways, such as by providing web development services to other clubs, students, and faculty members.*
-
-When handling cash, the Treasurer will be in charge of collecting and safeguarding the money. After the cash has been collected, and before depositing in the club account, another officer will verify the amount collected. The Treasurer will maintain a ledger of all money collected, deposited, withdrawn, and spent.
-
 #### Outside Vendors
 Should the WDC need to contract with outside vendors, the officers should consult with the club Advisor and with the Director of Student Activities prior to signing any binding contracts.
 
