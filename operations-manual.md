@@ -54,7 +54,7 @@ No activities performed by the WDC present significant risk to personal safety. 
 **In the event of an emergency, members should first call one of the following:**
 
   - Ames Police Department: 911
-  - ISU Police Department:   515-294-4428
+  - ISU Police Department: 515-294-4428
 
 Afterwards, the WDC President and Advisor should be contacted immediately and briefed of the situation. The Vice President should be contacted if the President cannot be reached. The President or Vice President should then contact the Student Activities Center to report the incident.
 
@@ -62,33 +62,33 @@ Afterwards, the WDC President and Advisor should be contacted immediately and br
 
 ### Finances
 
-#### - Management
+#### Management
 All monies belonging to the WDC shall be deposited and disbursed through a bank account established for the club at the Campus Organizations Accounting Office and/or approved institution/office (must receive authorization via Campus Organizations Accounting Office). All funds must be deposited within 48 hours after collection. The club Advisor must approve and sign expenditures before payment.
 
 The Treasurer will prepare a budget at the beginning of each semester. The club will vote on the budget, which will pass with a simple majority vote. Changes to the budget during the semester should be presented to the club and voted upon before going into effect.
 
-#### - Dues
+#### Dues
 Membership dues for all members will be $10 per semester and will be due by the third general meeting of the semester. For members who join after the third general meeting of the semester, they will be expected to pay dues by the third general meeting after the date they joined. Dues for the semester may be waived for all members by the club Treasurer in the event that there is enough money in the club’s account to pay for all budgeted items for the semester (such as website fees, scheduled club activities, etc.). The waiving of dues will be on an “all-or-nothing” basis; either all members have their dues waived for the semester, or none have their dues waived. *NOTE: It is the goal of WDC to waive dues every semester by raising club funds in other ways, such as by providing web development services to other clubs, students, and faculty members.*
 
 When handling cash, the Treasurer will be in charge of collecting and safeguarding the money. After the cash has been collected, and before depositing in the club account, another officer will verify the amount collected. The Treasurer will maintain a ledger of all money collected, deposited, withdrawn, and spent.
 
-#### - Outside Vendors
+#### Outside Vendors
 Should the WDC need to contract with outside vendors, the officers should consult with the club Advisor and with the Director of Student Activities prior to signing any binding contracts.
 
 ### Fundraising
 The WDC will conduct fundraising by seeking sponsorship and by providing web development services to other clubs, students, and faculty. Should the club have enough funds to cover the current and projected semesterly budgets, web development services should be provided for free for the remainder of the semester. No attempt should be made to raise funds in gross excess of what is projected to be needed in the next three semesters.
 
-#### - Web Development Projects
+#### Web Development Projects
 Web development projects can be used as a source of fundraising, but the primary purpose of these projects will be to learn, grow, gain experience, and give back to the community. Fees should be reasonable and targeted at fulfilling project requirements and budget needs. It is important to ensure the client understands that this is a student club, not a professional business. As such, the client should sign a liability waiver before any work is done on a project. Any fees required for the purposes of the project (such as domain name registration or web hosting fees) should be collected at the start of the project. Any fees agreed upon for the purposes of club fundraising should be collected at the end of the project. The officers should consult with the club Advisor and with the Director of Student Activities prior to signing any binding contracts. The Treasurer should ensure all money collected by the club during the course of a project is properly handled, documented, and deposited.
 
-#### - Sponsorships
+#### Sponsorships
 Officers should check with the Student Activities Center prior to finalizing any sponsorship agreements. All sponsorships should be listed in the document entitled "Web Development Club Sponsorships". The document should give the name of the organization, contact information, amount of the sponsorship, and any other pertinent information. Thank you letters should be sent promptly at the beginning of each semester to current WDC sponsors. The letter should express the club's gratitude for the sponsor's support, as well as a friendly update to what the club has been involved in and what it plans to do in the near future.
 
 ## Section 4: Marketing & Meeting Schedule
 
 ### Marketing
 
-#### - Recruitment Marketing
+#### Recruitment Marketing
 The WDC will use the following marketing strategies for club recruitment:
 
 1. Online Media
@@ -107,13 +107,13 @@ The WDC will apply for and man a spot at Iowa State University's annual ClubFest
 ##### Flyers
 Flyers will be posted at least once a semester in various buildings around campus. The main effort will be in the computer science and engineering buildings, design buildings, library, and memorial union, though flyers can be posted anywhere there may be interest. The officers are in charge of printing and hanging the flyers, though they can delegate the task to any willing members.
 
-#### - Web Development Services Marketing
+#### Web Development Services Marketing
 *During the initial startup period of the club, there will not be a large emphasis on web development services marketing. Once the club is in a position where it wants to begin outreach and start projects for other clubs, students, and organizations, this section can be updated to reflect marketing strategies. They will most likely consist of emailing listservs, utilizing online media, handing out pamphlets to other clubs at ClubFest, and hanging flyers around campus.*
 
 ### Meeting Schedule
 The WDC will meet at a time and place to be determined each semester based on the availability of club members. A meeting poll, such as Doodle, will be sent out to all members within the first few weeks to establish what time and place works best for everyone. The location will be on campus. The President or Vice President will be in charge of reserving the meeting space. The space should be reserved by **(TODO: FIND OUT MORE ABOUT SPACE RESERVATION AND UPDATE THIS SECTION WITH DETAILS)**. Officer meetings and meetings with the advisor will be set up by the officers at a time and place that works for everyone involved.
 
-#### - Fall 2015 / Spring 2016 General Meeting Information
+#### Fall 2015 / Spring 2016 General Meeting Information
 
 - Day/Time: *TBD*
 - Location: *TBD*
