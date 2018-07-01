@@ -87,9 +87,9 @@ Officers should check with the Student Activities Center prior to finalizing any
 The WDC will use the following marketing strategies for club recruitment:
 
 1. Online Media
-  - Website: *(URL to be determined. The website will be located on the iastate.edu domain)*
+  - Website: http://webdev.stuorg.iastate.edu/
+  - Twitter: https://twitter.com/ISU_Web_Dev
   - Facebook: https://www.facebook.com/ISUWebDevelopment
-  - Twitter: @ISU_Web_Dev
 2. ClubFest
 3. Flyers
 
@@ -97,7 +97,7 @@ The WDC will use the following marketing strategies for club recruitment:
 The WDC website will have various purposes and usages, one of which will be promotion of the club. An 'About Us' or 'Join' page will present information about the club for students interesting in joining. The club website is written and maintained by all members of the club, though the officers will control the merging of pull requests to the master repository. More information on website management can be found in Section 6. The Vice President will be in charge of maintaining the Twitter and Facebook accounts, though he may, at his discretion, choose to share that responsibility with other members.
 
 ##### ClubFest
-The WDC will apply for and man a spot at Iowa State University's annual ClubFest held at the beginning of fall semester. The table display and handouts are at the discretion of the officers or whichever member is placed in charge of the table. Ensure an application is put in for ClubFest early enough (August at the latest) to get a spot, especially if a full table or electricity is required. Applications can be made on the ISU Student Activities Center webpage at http://www.sac.iastate.edu/en/sac_annual_events/clubfest/
+The WDC will apply for a spot at Iowa State University's ClubFest during the fall and spring semesters. The table display and handouts are at the discretion of the officers or whichever member is placed in charge of the table. Ensure an application is put in for ClubFest early enough (August at the latest for the fall ClubFest) to get a spot, especially if a full table or electricity is required. Apply at the [Student Activities Center](https://www.sac.iastate.edu/sac-annual-events).
 
 ##### Flyers
 Flyers will be posted at least once a semester in various buildings around campus. The main effort will be in the computer science and engineering buildings, design buildings, library, and memorial union, though flyers can be posted anywhere there may be interest. The officers are in charge of printing and hanging the flyers, though they can delegate the task to any willing members.
