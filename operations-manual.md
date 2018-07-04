@@ -106,14 +106,7 @@ Flyers will be posted at least once a semester in various buildings around campu
 *During the initial startup period of the club, there will not be a large emphasis on web development services marketing. Once the club is in a position where it wants to begin outreach and start projects for other clubs, students, and organizations, this section can be updated to reflect marketing strategies. They will most likely consist of emailing listservs, utilizing online media, handing out pamphlets to other clubs at ClubFest, and hanging flyers around campus.*
 
 ### Meeting Schedule
-The WDC will meet at a time and place to be determined each semester based on the availability of club members. A meeting poll, such as Doodle, will be sent out to all members within the first few weeks to establish what time and place works best for everyone. The location will be on campus. The President or Vice President will be in charge of reserving the meeting space. The space should be reserved by **(TODO: FIND OUT MORE ABOUT SPACE RESERVATION AND UPDATE THIS SECTION WITH DETAILS)**. Officer meetings and meetings with the advisor will be set up by the officers at a time and place that works for everyone involved.
-
-#### Fall 2015 / Spring 2016 General Meeting Information
-
-- Day/Time: *TBD*
-- Location: *TBD*
-- Beginning Date: *TBD*
-- Ending Date: *TBD*
+The WDC will meet at a time and place to be determined each semester based on the availability of club members. A meeting poll will be sent out to all members within the first few weeks to establish what time and place works best for everyone. The location will be on campus. The President or Vice President will be in charge of reserving the meeting space. The space should be reserved by submitting a [Room Reservation Request](https://www.fpm.iastate.edu/roomscheduling/student_form/). Rooms with a projector are preferable. Visit the room beforehand to make sure the projector has an HDMI input (some only have VGA). Officer meetings and meetings with the advisor will be set up by the officers at a time and place that works for everyone involved.
 
 ## Section 5: Advisor & Affiliation
 
@@ -156,14 +149,14 @@ The website will generally be structured as follows (open to change):
   - Information about joining
 
 ### Management
-The club website is written and maintained by all members of the club, though the officers will control the merging of pull requests to the master repository. The advisor will assist in setting up the website, make recommendations, and provide any assistance when issues arrive that the members and officers cannot solve themselves. More information on contributing to the website can be found in the CONTRIBUTING.md file in the site repository.
+The club website is written and maintained by all members of the club, though the officers will control the merging of pull requests to the master repository. The advisor will assist in setting up the website, make recommendations, and provide any assistance when issues arrive that the members and officers cannot solve themselves. More information on contributing to the website can be found in the [CONTRIBUTING](https://github.com/ISU-WebDevClub/club-website/blob/master/CONTRIBUTING.md) file in the site repository.
 
 ### Web Hosting & Domain
 The WDC's webpage will be hosted on Iowa State University's web domain (iastate.edu). Should the club decide it needs the website to be hosted elsewhere, it will work with the club advisor and with the Student Activities Center to find a solution that meets the club's needs while staying in compliance with ISU rules and regulations.
 
-Website URL: **(TODO: Put link to website here once it's setup)**
+URL: http://webdev.stuorg.iastate.edu/
 
 ### Code Repository
 Code written for the club will be kept in an open-source repository, such as a public GitHub repo. At no time will any of the club website code or other club-specific code be kept in a private repository. If the club is working on a project for a third party, and that party does not want the code to be public, a private repository will be set up for that specific project.
 
-WDC GitHub Account: https://github.com/ISU-WebDevClub
+WDC GitHub: https://github.com/ISU-WebDevClub
